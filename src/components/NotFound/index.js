@@ -1,5 +1,5 @@
-import Header from '../Header'
-import SideBar from '../SideBar'
+import Header from '../Header/index.js'
+import SideBar from '../SideBar/index.js'
 
 import {
   NotFoundImage,

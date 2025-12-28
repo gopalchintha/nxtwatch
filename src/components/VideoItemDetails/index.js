@@ -1,11 +1,11 @@
 import {Component} from 'react'
 import Loader from 'react-loader-spinner'
 import Cookies from 'js-cookie'
-import Header from '../Header'
-import SideBar from '../SideBar'
+import Header from '../Header/index.js'
+import SideBar from '../SideBar/index.js'
 
-import VideoItemDetailsCard from '../VideoItemDetailsCard'
-import AppContext from '../../context/AppContext'
+import VideoItemDetailsCard from '../VideoItemDetailsCard/index.js'
+import AppContext from '../../context/AppContext.js'
 
 import {
   VideoItemDetailsContainer,

@@ -3,10 +3,10 @@ import Loader from 'react-loader-spinner'
 import Cookies from 'js-cookie'
 import {IoIosClose} from 'react-icons/io'
 import {MdSearch} from 'react-icons/md'
-import Header from '../Header'
-import HomeVideoCard from '../HomeVideoCard'
-import SideBar from '../SideBar'
-import AppContext from '../../context/AppContext'
+import Header from '../Header/index.js'
+import HomeVideoCard from '../HomeVideoCard/index.js'
+import SideBar from '../SideBar/index.js'
+import AppContext from '../../context/AppContext.js'
 
 import {
   HomeBackGroundContainer,

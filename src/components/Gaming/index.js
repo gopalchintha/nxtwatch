@@ -2,11 +2,11 @@ import {Component} from 'react'
 import {SiYoutubegaming} from 'react-icons/si'
 import Loader from 'react-loader-spinner'
 import Cookies from 'js-cookie'
-import Header from '../Header'
-import SideBar from '../SideBar'
-import GamingVideoCard from '../GamingVideoCard'
+import Header from '../Header/index.js'
+import SideBar from '../SideBar/index.js'
+import GamingVideoCard from '../GamingVideoCard/index.js'
 
-import AppContext from '../../context/AppContext'
+import AppContext from '../../context/AppContext.js'
 
 import {
   GamingHeaderContainer,
