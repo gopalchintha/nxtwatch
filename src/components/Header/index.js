@@ -4,7 +4,7 @@ import Cookies from 'js-cookie'
 import {FaMoon, FaSun, FaBars} from 'react-icons/fa'
 
 import {FiLogOut} from 'react-icons/fi'
-import AppContext from '../../context/AppContext.js'
+import AppContext from '../../context/AppContext'
 
 import {
   HeaderBackgroundContainer,

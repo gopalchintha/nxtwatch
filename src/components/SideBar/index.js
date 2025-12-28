@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom'
 import {AiFillHome, AiFillFire} from 'react-icons/ai'
 import {SiYoutubegaming} from 'react-icons/si'
 import {CgPlayListAdd} from 'react-icons/cg'
-import AppContext from '../../context/AppContext.js'
+import AppContext from '../../context/AppContext'
 
 import {
   SideBarContainer,

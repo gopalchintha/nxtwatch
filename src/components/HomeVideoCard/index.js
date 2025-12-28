@@ -1,6 +1,6 @@
 import {formatDistanceToNow} from 'date-fns'
 import {Link} from 'react-router-dom'
-import AppContext from '../../context/AppContext.js'
+import AppContext from '../../context/AppContext'
 
 import {
   VideoCardItem,

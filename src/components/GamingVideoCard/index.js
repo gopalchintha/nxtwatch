@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import AppContext from '../../context/AppContext.js'
+import AppContext from '../../context/AppContext'
 import {
   GamingVideoCardItem,
   ThumbnailVideoImage,

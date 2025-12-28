@@ -1,8 +1,8 @@
 import {Component} from 'react'
-import Header from '../Header/index.js'
-import SideBar from '../SideBar/index.js'
-import TrendingVideoCard from '../TrendingVideoCard/index.js'
-import AppContext from '../../context/AppContext.js'
+import Header from '../Header'
+import SideBar from '../SideBar'
+import TrendingVideoCard from '../TrendingVideoCard'
+import AppContext from '../../context/AppContext'
 
 import {
   HeaderContainer,

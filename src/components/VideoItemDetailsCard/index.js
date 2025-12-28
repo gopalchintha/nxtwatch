@@ -2,7 +2,7 @@ import ReactPlayer from 'react-player'
 import {AiOutlineLike, AiOutlineDislike} from 'react-icons/ai'
 import {BiListPlus} from 'react-icons/bi'
 import {formatDistanceToNow} from 'date-fns'
-import AppContext from '../../context/AppContext.js'
+import AppContext from '../../context/AppContext'
 
 import {
   VideoItem,
